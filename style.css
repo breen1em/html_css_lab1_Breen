@@ -1,0 +1,61 @@
+header,
+h1,
+ul,
+li,
+button,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f9fafc;
+  padding: 15px;
+}
+
+.header1 {
+  font-size: 12px;
+  color: #000;
+  margin: 0px 0px 5px 0px;
+}
+
+.nav-list {
+  list-style-type: none;
+}
+
+.nav-buttons {
+  font-size: 12px;
+  padding: 5px 0px;
+}
+.links:visited {
+  color: #69696a;
+}
+.links {
+  text-decoration: none;
+  color: #69696a;
+}
+
+.header2 {
+  color: #000;
+  font-size: 30px;
+  margin: 10px 0px;
+}
+
+.bio {
+  border-left: 2px solid #69696a;
+  padding: 0px 15px;
+  margin: 15px 0px;
+  color: #69696a;
+  font-size: 12px;
+}
+
+.button {
+  background-color: #000;
+  color: #fff;
+  border-radius: 50px;
+  border: none;
+  padding: 10px;
+  margin: 10px 0px;
+  width: 100%;
+}
